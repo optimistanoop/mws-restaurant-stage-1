@@ -1,0 +1,9 @@
+{ "name": "Restaurant",
+  "short_name": "Restaurant",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#f6911f",
+  "background_color": "#dd821b",
+  "icons": [ { "src": "cf_logo_pwa.png", "sizes": "192x192", "type": "image/png" },
+             { "src": "cf_logo_pwa512.png", "sizes": "512x512", "type": "image/png" } ] 
+}
